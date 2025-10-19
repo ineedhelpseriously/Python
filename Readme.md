@@ -82,9 +82,9 @@ This repository contains a structured journey to learn Python from the ground up
 
 ## 📂 10. Advanced Topics
 
-- [ ] 1_List_Comprehensions
-- [ ] 2_Generators
-- [ ] 3_Iterators
+- [x] 1_List_Comprehensions
+- [x] 2_Generators
+- [x] 3_Iterators
 - [ ] 4_Decorators
 - [ ] 5_Context_Managers
 - [ ] 6_Regular_Expressions
