@@ -91,10 +91,10 @@ This repository contains a structured journey to learn Python from the ground up
 
 ## 📂 11. Pythonic Thinking
 
-- [ ] 1*Code_Style*(PEP8)
-- [ ] 2_Using_Enumerate_and_Zip
-- [ ] 3_EAFP_vs_LBYL
-- [ ] 4_Useful_Builtins
+- [x] 1*Code_Style*(PEP8)
+- [x] 2_Using_Enumerate_and_Zip
+- [x] 3_EAFP_vs_LBYL
+- [x] 4_Useful_Builtins
 
 ## 📂 12. Practice and Projects
 
